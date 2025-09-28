@@ -1,7 +1,5 @@
 # Odoo 19 - IndiaMART Integration
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 This module provides a complete integration with the IndiaMART Pull API for Odoo 19 Community Edition. It automates the process of fetching new business inquiries from your IndiaMART seller account and creating them as clean, enriched leads in your Odoo CRM.
 
 This project was built to be a robust, standalone solution for businesses looking to streamline their lead capture process from one of India's largest B2B marketplaces.
